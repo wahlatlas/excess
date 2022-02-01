@@ -8,5 +8,5 @@ Sterbefälle - Fallzahlen nach Tagen, Wochen, Monaten, Altersgruppen, Geschlecht
 Excel Tabelle wird Dienstags um 12:00 aktualisiert bereitgestellt unter
 https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/Tabellen/sonderauswertung-sterbefaelle.html
 
-Dieses [Jupyter Notebook](https://github.com/wahlatlas/excess/blob/main/Sterbefaelle_Destatis.ipynb) hilft bei der automatisierten Verarbeitung der umfangreichen Excel-Datei in eine einfach csv-Datei für die Darstellung unter
+Dieses [Jupyter Notebook](https://github.com/wahlatlas/excess/blob/main/Sterbefaelle_Destatis.ipynb) hilft bei der automatisierten Verarbeitung der umfangreichen Excel-Datei in eine einfache csv-Datei für die Darstellung unter
 https://wahlatlas.net/experimente/excess/sterbefaelle_bundeslaender.html
